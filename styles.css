@@ -5,6 +5,7 @@ body {
 #countdown {
   color: rgb(159, 94, 219);
   font-family: "Rubik Mono One", monospace;
+  font-size: 3rem;
   font-weight: 400;
   font-style: normal;
   position: fixed;
