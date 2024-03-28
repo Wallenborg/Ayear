@@ -1,0 +1,13 @@
+body {
+  transition: background-color 1s ease;
+}
+
+#countdown {
+  color: rgb(159, 94, 219);
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+  position: fixed;
+  bottom: 20px;
+  right: 40px;
+}
